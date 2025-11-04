@@ -1,7 +1,7 @@
-Title: Why Don't You Use mise for Managing Your Neovim?
-Status: Not Accepted
-Slide Language: English
-Speech Language: English
+- Title: Why Don't You Use mise for Managing Your Neovim?
+- Status: Not Accepted
+- Slide Language: English
+- Speech Language: English
 
 
 ## Abstract

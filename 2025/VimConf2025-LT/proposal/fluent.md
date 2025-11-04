@@ -1,7 +1,7 @@
-Title: From Fuzzy to Fluent: Semantic Code Search in Neovim
-Status: Accepted
-Slide Language: English
-Speech Language: English
+- Title: From Fuzzy to Fluent: Semantic Code Search in Neovim
+- Status: Accepted
+- Slide Language: English
+- Speech Language: English
 
 ## Abstract
 シンボル名ではなくコードの内容でコードを検索したいと思ったことはありませんか？

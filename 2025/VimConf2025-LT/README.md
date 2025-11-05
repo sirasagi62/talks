@@ -3,7 +3,7 @@
 - Date: 2025-11-02
 
 ### Proposal
-- [Flom Fuzzy to Fluent: Semantic Code Search in Vim/Neovim (Accepted)](./proposal/fluent.md)
+- [From Fuzzy to Fluent: Semantic Code Search in Vim/Neovim (Accepted)](./proposal/fluent.md)
 - [Why Don't You use mise for Managing Your Neovim? (Not Accepted)](./proposal/mise.md)
 
 ### Scripts
